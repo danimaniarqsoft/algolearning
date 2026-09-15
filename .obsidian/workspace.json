@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "d34854085e775c9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7896ad340d86829d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48f27a47be05619d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bf058de697baece9",
+    "type": "split",
+    "children": [
+      {
+        "id": "75a28254737007c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8cb116a63d92e6f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "73501ffcc3703fee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "224063109619433a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 319.5703125
+  },
+  "right": {
+    "id": "463c32239f8fc08f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9a82167ceb39d71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc8cc8e6748f0291",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "To do.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "504599c49799c391",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2026-08-15.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "34ac38080ac35678",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b51730f6a0ebdab9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "cbf43c0bc2bda47b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2026-08-15.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "48f27a47be05619d",
+  "lastOpenFiles": [
+    "19 Math And Geometry/05 Triangle Numbers.md",
+    "19 Math And Geometry/04 The Josephus Problem.md",
+    "19 Math And Geometry/03 Maximum Collinear Points.md",
+    "19 Math And Geometry/02 Reverse 32-Bit Integer.md",
+    "19 Math And Geometry/01 Spiral Traversal.md",
+    "19 Math And Geometry",
+    "18 Bit Manipulation/03 Swap Odd and Even Bits.md",
+    "18 Bit Manipulation/02 Lonely Integer.md",
+    "18 Bit Manipulation/01 Hamming Weights of Integers.md",
+    "18 Bit Manipulation",
+    "17 Sort And Search/04 Dutch National Flag.md",
+    "17 Sort And Search/03 Kth Largest Integer.md",
+    "17 Sort And Search/02 Sort Array.md",
+    "17 Sort And Search/01 Sort Linked List.md",
+    "17 Sort And Search",
+    "16 Greedy/03 Candies.md",
+    "16 Greedy/02 Gas Stations.md",
+    "16 Greedy/01 Jump to the End.md",
+    "16 Greedy",
+    "15 Dynamic Programming/09 Largest Square in a Matrix.md",
+    "15 Dynamic Programming/08 0-1 Knapsack.md",
+    "15 Dynamic Programming/07 Maximum Subarray Sum.md",
+    "15 Dynamic Programming/06 Longest Palindrome in a String.md",
+    "15 Dynamic Programming/05 Longest Common Subsequence.md",
+    "15 Dynamic Programming/04 Neighborhood Burglary.md",
+    "15 Dynamic Programming/03 Matrix Pathways.md",
+    "15 Dynamic Programming/02 Minimum Coin Combination.md",
+    "15 Dynamic Programming/01 Climbing Stairs.md",
+    "15 Dynamic Programming",
+    "14 Backtracking/05 Phone Keypad Combinations.md",
+    "14 Backtracking/04 Combinations of a Sum.md",
+    "14 Backtracking",
+    "13 Graphs",
+    "12 Tries",
+    "11 Trees",
+    "10 Prefix Sums",
+    "3. Spec2UML Agent/Seq2Seq/training-pipeline.png",
+    "dddddd.canvas"
+  ]
+}

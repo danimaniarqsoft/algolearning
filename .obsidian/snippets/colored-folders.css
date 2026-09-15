@@ -1,0 +1,237 @@
+/* ========================================
+   ALGORITHMS — FOLDER COLORS
+   Based on the research-vault palette
+   ======================================== */
+
+/* 01. Two Pointers */
+.nav-folder-title[data-path="01 Two Pointers"] {
+    background: #E7F6F1;
+    border: 3px solid #079B72;
+}
+
+/* 02. Hash Maps And Sets */
+.nav-folder-title[data-path="02 Hash Maps And Sets"] {
+    background: #EAF3FB;
+    border: 3px solid #1976C8;
+}
+
+/* 03. Linked Lists */
+.nav-folder-title[data-path="03 Linked Lists"] {
+    background: #FFF5DC;
+    border: 3px solid #F28C00;
+}
+
+/* 04. Fast And Slow Pointers */
+.nav-folder-title[data-path="04 Fast And Slow Pointers"] {
+    background: #FFF0F0;
+    border: 3px solid #E52E30;
+}
+
+/* 05. Sliding Window */
+.nav-folder-title[data-path="05 Sliding Window"] {
+    background: #F8EFFB;
+    border: 3px solid #9C2BB9;
+}
+
+/* 06. Binary Search */
+.nav-folder-title[data-path="06 Binary Search"] {
+    background: #F3F4F5;
+    border: 3px solid #343B42;
+}
+
+/* 07. Stacks */
+.nav-folder-title[data-path="07 Stacks"] {
+    background: #F5EFEC;
+    border: 3px solid #87695E;
+}
+
+/* 08. Heaps */
+.nav-folder-title[data-path="08 Heaps"] {
+    background: #E7F6F1;
+    border: 3px solid #079B72;
+}
+
+/* 09. Intervals */
+.nav-folder-title[data-path="09 Intervals"] {
+    background: #EAF3FB;
+    border: 3px solid #1976C8;
+}
+
+/* 10. Prefix Sums */
+.nav-folder-title[data-path="10 Prefix Sums"] {
+    background: #FFF5DC;
+    border: 3px solid #F28C00;
+}
+
+/* 11. Trees */
+.nav-folder-title[data-path="11 Trees"] {
+    background: #FFF0F0;
+    border: 3px solid #E52E30;
+}
+
+/* 12. Tries */
+.nav-folder-title[data-path="12 Tries"] {
+    background: #F8EFFB;
+    border: 3px solid #9C2BB9;
+}
+
+/* 13. Graphs */
+.nav-folder-title[data-path="13 Graphs"] {
+    background: #F3F4F5;
+    border: 3px solid #343B42;
+}
+
+/* 14. Backtracking */
+.nav-folder-title[data-path="14 Backtracking"] {
+    background: #F5EFEC;
+    border: 3px solid #87695E;
+}
+
+/* 15. Dynamic Programming */
+.nav-folder-title[data-path="15 Dynamic Programming"] {
+    background: #E7F6F1;
+    border: 3px solid #079B72;
+}
+
+/* 16. Greedy */
+.nav-folder-title[data-path="16 Greedy"] {
+    background: #EAF3FB;
+    border: 3px solid #1976C8;
+}
+
+/* 17. Sort And Search */
+.nav-folder-title[data-path="17 Sort And Search"] {
+    background: #FFF5DC;
+    border: 3px solid #F28C00;
+}
+
+/* 18. Bit Manipulation */
+.nav-folder-title[data-path="18 Bit Manipulation"] {
+    background: #FFF0F0;
+    border: 3px solid #E52E30;
+}
+
+/* 19. Math And Geometry */
+.nav-folder-title[data-path="19 Math And Geometry"] {
+    background: #F8EFFB;
+    border: 3px solid #9C2BB9;
+}
+
+
+/* ========================================
+   COMMON STYLE
+   ======================================== */
+
+.nav-folder-title[data-path="01 Two Pointers"],
+.nav-folder-title[data-path="02 Hash Maps And Sets"],
+.nav-folder-title[data-path="03 Linked Lists"],
+.nav-folder-title[data-path="04 Fast And Slow Pointers"],
+.nav-folder-title[data-path="05 Sliding Window"],
+.nav-folder-title[data-path="06 Binary Search"],
+.nav-folder-title[data-path="07 Stacks"],
+.nav-folder-title[data-path="08 Heaps"],
+.nav-folder-title[data-path="09 Intervals"],
+.nav-folder-title[data-path="10 Prefix Sums"],
+.nav-folder-title[data-path="11 Trees"],
+.nav-folder-title[data-path="12 Tries"],
+.nav-folder-title[data-path="13 Graphs"],
+.nav-folder-title[data-path="14 Backtracking"],
+.nav-folder-title[data-path="15 Dynamic Programming"],
+.nav-folder-title[data-path="16 Greedy"],
+.nav-folder-title[data-path="17 Sort And Search"],
+.nav-folder-title[data-path="18 Bit Manipulation"],
+.nav-folder-title[data-path="19 Math And Geometry"] {
+    color: #202020;
+    border-radius: 9px;
+    margin: 4px 4px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    font-weight: 500;
+    transition: filter 0.15s ease;
+}
+
+
+/* ========================================
+   HOVER
+   ======================================== */
+
+.nav-folder-title[data-path="01 Two Pointers"]:hover,
+.nav-folder-title[data-path="02 Hash Maps And Sets"]:hover,
+.nav-folder-title[data-path="03 Linked Lists"]:hover,
+.nav-folder-title[data-path="04 Fast And Slow Pointers"]:hover,
+.nav-folder-title[data-path="05 Sliding Window"]:hover,
+.nav-folder-title[data-path="06 Binary Search"]:hover,
+.nav-folder-title[data-path="07 Stacks"]:hover,
+.nav-folder-title[data-path="08 Heaps"]:hover,
+.nav-folder-title[data-path="09 Intervals"]:hover,
+.nav-folder-title[data-path="10 Prefix Sums"]:hover,
+.nav-folder-title[data-path="11 Trees"]:hover,
+.nav-folder-title[data-path="12 Tries"]:hover,
+.nav-folder-title[data-path="13 Graphs"]:hover,
+.nav-folder-title[data-path="14 Backtracking"]:hover,
+.nav-folder-title[data-path="15 Dynamic Programming"]:hover,
+.nav-folder-title[data-path="16 Greedy"]:hover,
+.nav-folder-title[data-path="17 Sort And Search"]:hover,
+.nav-folder-title[data-path="18 Bit Manipulation"]:hover,
+.nav-folder-title[data-path="19 Math And Geometry"]:hover {
+    filter: brightness(0.96);
+}
+
+
+/* ========================================
+   SUBFOLDERS — LIGHT TINTS
+   ======================================== */
+
+/* Green */
+.nav-folder[data-path="01 Two Pointers"] .nav-folder-title,
+.nav-folder[data-path="08 Heaps"] .nav-folder-title,
+.nav-folder[data-path="15 Dynamic Programming"] .nav-folder-title {
+    background: #F2FAF7;
+    color: #365C50;
+}
+
+/* Blue */
+.nav-folder[data-path="02 Hash Maps And Sets"] .nav-folder-title,
+.nav-folder[data-path="09 Intervals"] .nav-folder-title,
+.nav-folder[data-path="16 Greedy"] .nav-folder-title {
+    background: #F2F7FC;
+    color: #3F5870;
+}
+
+/* Orange */
+.nav-folder[data-path="03 Linked Lists"] .nav-folder-title,
+.nav-folder[data-path="10 Prefix Sums"] .nav-folder-title,
+.nav-folder[data-path="17 Sort And Search"] .nav-folder-title {
+    background: #FFFAEE;
+    color: #6D572D;
+}
+
+/* Red */
+.nav-folder[data-path="04 Fast And Slow Pointers"] .nav-folder-title,
+.nav-folder[data-path="11 Trees"] .nav-folder-title,
+.nav-folder[data-path="18 Bit Manipulation"] .nav-folder-title {
+    background: #FFF7F7;
+    color: #704346;
+}
+
+/* Purple */
+.nav-folder[data-path="05 Sliding Window"] .nav-folder-title,
+.nav-folder[data-path="12 Tries"] .nav-folder-title,
+.nav-folder[data-path="19 Math And Geometry"] .nav-folder-title {
+    background: #FCF7FD;
+    color: #65446E;
+}
+
+/* Slate */
+.nav-folder[data-path="06 Binary Search"] .nav-folder-title,
+.nav-folder[data-path="13 Graphs"] .nav-folder-title {
+    background: #F7F8F9;
+    color: #4E565D;
+}
+
+/* Brown */
+.nav-folder[data-path="07 Stacks"] .nav-folder-title,
+.nav-folder[data-path="14 Backtracking"] .nav-folder-title {
+    background: #FAF7F5;
+    color: #62534C;
+}
