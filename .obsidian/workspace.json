@@ -185,8 +185,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "48f27a47be05619d",
+  "active": "e8cb116a63d92e6f",
   "lastOpenFiles": [
+    "README.md",
     "19 Math And Geometry/05 Triangle Numbers.md",
     "19 Math And Geometry/04 The Josephus Problem.md",
     "19 Math And Geometry/03 Maximum Collinear Points.md",
@@ -217,7 +218,6 @@
     "15 Dynamic Programming/01 Climbing Stairs.md",
     "15 Dynamic Programming",
     "14 Backtracking/05 Phone Keypad Combinations.md",
-    "14 Backtracking/04 Combinations of a Sum.md",
     "14 Backtracking",
     "13 Graphs",
     "12 Tries",
